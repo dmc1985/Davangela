@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672685921998",
+    "firebase_url": "https://davangela-a431e.firebaseio.com",
+    "project_id": "davangela-a431e",
+    "storage_bucket": "davangela-a431e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672685921998:android:f4a42f302c83090297a29f",
+        "android_client_info": {
+          "package_name": "com.davangela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672685921998-t9pgh9vvlfhmm5fkgc4qp6q90fnrc1p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5DjuVCcigZ8FfT1r-zNtc6bLlywsSz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672685921998-t9pgh9vvlfhmm5fkgc4qp6q90fnrc1p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
